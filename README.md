@@ -7,6 +7,7 @@
 
 ## Vim
 * [Getting Started in Erlang with vim](https://github.com/defndaines/env/blob/master/erlang-vim.md)
+* [How to use Vim for Erlang Development](http://blog.erlware.org/how-to-use-vim-for-erlang-development/)
 
 ## Sublime Text
 * [Brujo Benavides' Sublime Text Configuration](Preferences.sublime-settings)
