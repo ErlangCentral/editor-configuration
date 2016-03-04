@@ -7,3 +7,6 @@
 
 ## Vim
 * [Getting Started in Erlang with vim](https://github.com/defndaines/env/blob/master/erlang-vim.md)
+
+## Sublime Text
+* [Brujo Benavides' Sublime Text Configuration](Preferences.sublime-settings)
